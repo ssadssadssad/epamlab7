@@ -1,0 +1,26 @@
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.exe
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.deps.json
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.runtimeconfig.json
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.runtimeconfig.dev.json
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.dll
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.pdb
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.csprojAssemblyReference.cache
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.AssemblyInfoInputs.cache
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.AssemblyInfo.cs
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.csproj.CoreCompileInputs.cache
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.dll
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.pdb
+D:\University\3 course\1 sem\EPAM\EPAM_labs\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.genruntimeconfig.cache
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.exe
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.deps.json
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.runtimeconfig.json
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.runtimeconfig.dev.json
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.dll
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\bin\Debug\netcoreapp3.1\Aircompany.pdb
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.csprojAssemblyReference.cache
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.AssemblyInfoInputs.cache
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.AssemblyInfo.cs
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.csproj.CoreCompileInputs.cache
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.dll
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.pdb
+C:\Users\Aloplsdd\Desktop\lab7\Aircompany\Aircompany\obj\Debug\netcoreapp3.1\Aircompany.genruntimeconfig.cache
